@@ -18,7 +18,8 @@ Azure IoT Hub생성 및 시물레이션 장치를 이용한 Telemetry데이터 �
 https://docs.microsoft.com/ko-kr/azure/iot-hub/iot-hub-create-through-portal 
  </li>
  <li>
-생성된 장치의 기본 연결 문자열을 복사합니다. 
+생성된 장치의 기본 연결 문자열을 복사합니다. <br>
+  <img src="https://github.com/keonlee/IoTWorkshop/blob/master/devconn.jpg">
  </li> 
  <li>
   VSCode에서 IoT Hub와의 연결설정을 아래 URL을 참고하여 설정합니다. <Br>
