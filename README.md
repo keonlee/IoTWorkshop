@@ -47,3 +47,14 @@ https://docs.microsoft.com/ko-kr/azure/iot-hub/iot-hub-create-through-portal
  방법: https://docs.microsoft.com/ko-kr/azure/iot-hub/iot-hub-vscode-iot-toolkit-cloud-device-messaging#monitor-device-to-cloud-messages 
  </li>
 </ol>
+  <br>
+IoT 데이터를 Azure Stream Analytics Job을 이용한 처리 
+<hr>
+<ol>
+<li>Azure Analytics Job을 아래 사이트 내용을 참고하여 생성합니다.<BR>
+https://docs.microsoft.com/ko-kr/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi <br>
+ <ul>
+  <li> 입력은 IoT Hub로 지정</li>
+   <li> 출력은 Power BI로 지정</li>
+
+ </ul>
