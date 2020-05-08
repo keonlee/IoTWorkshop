@@ -6,7 +6,7 @@
 <li>사용가능한 Azure Subscription</li> 
      <li>Azure Portal접속 </li>
      <li>VSCode : https://code.visualstudio.com/ </li>
-     <li>Python 3.7 이상 </li>
+     <li>Python 3.7 이상 (Python설치 시, 시스템 경로에 Python 추가 옵션 선택)</li>
 <li>Python Sample: https://github.com/Azure-Samples/azure-iot-samples-python/archive/master.zip </li>
    </ul>
   <br>
